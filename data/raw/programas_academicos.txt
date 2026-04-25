@@ -1,0 +1,6 @@
+id,nombre,descripcion,modalidad,estado,fecha_creacion
+1,Ingeniería de Sistemas,Programa de formación en sistemas informáticos,Presencial,ACTIVO,2023-01-01T00:00:00
+2,Administración de Empresas,Programa enfocado en gestión empresarial,Virtual,ACTIVO,2023-01-01T00:00:00
+3,Derecho,Estudios legales y jurisprudencia,Presencial,ACTIVO,2023-01-01T00:00:00
+4,Medicina,Formación médica integral,Presencial,ACTIVO,2023-01-01T00:00:00
+5,Psicología,Estudios en ciencias del comportamiento,Virtual,ACTIVO,2023-01-01T00:00:00

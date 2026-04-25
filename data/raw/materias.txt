@@ -1,0 +1,11 @@
+id,nombre,estado
+1,Matemáticas Básicas,ACTIVO
+2,Programación I,ACTIVO
+3,Estructuras de Datos,ACTIVO
+4,Base de Datos,ACTIVO
+5,Redes de Computadoras,ACTIVO
+6,Contabilidad,ACTIVO
+7,Marketing Digital,ACTIVO
+8,Derecho Penal,ACTIVO
+9,Anatomía Humana,ACTIVO
+10,Psicología Clínica,ACTIVO
